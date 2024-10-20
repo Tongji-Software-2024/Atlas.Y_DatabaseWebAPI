@@ -1,0 +1,15 @@
+﻿{
+  "DatabaseConfig": {
+    "UserId": "[TODO: UserId]",
+    "Password": "[TODO: Password]",
+    "Host": "[TODO: Host]",
+    "Port": "[TODO: Port]",
+    "ServiceName": "[TODO: ServiceName]"
+  },
+  "AutoDLConfig": {
+    "Host": "[TODO: Host]",
+    "Post": "[TODO: Post]",
+    "Username": "[TODO: Username]",
+    "Password": "[TODO: Password]"
+  }
+}
