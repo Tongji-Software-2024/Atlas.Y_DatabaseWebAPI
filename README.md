@@ -15,7 +15,7 @@
 
 ## Project Description
 
-Atlas.Y: Advanced targeting and localization assistance system for yeast (frontend application).
+Atlas.Y: Advanced targeting and localization assistance system for yeast (backend application).
 
 ![](assets/Logo.png)
 
@@ -68,7 +68,8 @@ We plan to commercialize Atlas.Y (see [Entrepreneurship](https://2024.igem.wiki/
 ## Relevant Repositories
 
 * [Atlas.Y Wiki](https://github.com/MinmusLin/Atlas.Y_Wiki)
-* [Atlas.Y DatabaseWebAPI](https://github.com/MinmusLin/Atlas.Y_DatabaseWebAPI)
+* [Atlas.Y UserInterface](https://github.com/MinmusLin/Atlas.Y_UserInterface)
+* [Atlas.Y iOS Application](https://github.com/MinmusLin/Atlas.Y_iOS_Application)
 * [Atlas.Y Dataset](https://github.com/MinmusLin/Atlas.Y_Dataset)
 
 ## Contact Us
